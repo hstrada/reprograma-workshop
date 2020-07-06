@@ -58,15 +58,23 @@
 
 ## Sessão Dúvidas
 
-### 15hrs ~ 16hrs
+### 15hrs ~ 15hrs45min
 
 1. Tempo para dúvidas e finalização do processo para todas as alunas.
 
 ---
 
-## Novos Desafios
+## Publicando o Projeto
 
-### 16hrs ~ 17hrs
+### 15hrs45min ~ 16hrs30min
+
+1. Publicar o projeto no netlify.
+
+---
+
+## Próximos Passos
+
+### 16hrs30min ~ 17hrs
 
 1. Apresentar o próximo desafio.
 2. As alunas terão 24hrs para realizar o desafio seguinte que será:
