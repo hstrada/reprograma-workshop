@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Reprograma - Calculadora Freelancer</title>
+    <link rel="icon" href="img/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="css/estilos.css" />
+  </head>
+  <body>
+    <nav class="barra-navegacao">
+      <img
+        class="barra-navegacao__logotipo"
+        src="img/logotipo-reprograma.png"
+      />
+    </nav>
+    <header class="cabecalho">
+      <h1 class="cabecalho__titulo">Calculadora Freelancer</h1>
+    </header>
+    <main class="conteudo-principal">
+      <section class="secao secao-hora">
+        <article class="secao__conteudo">
+          <form class="secao__formulario">
+            <fieldset>
+              <legend>Quanto você ganha por mês?</legend>
+              <div class="secao__formulario__grupo">
+                <label for="ganho-mes">Quantidade por mês</label>
+                <input id="ganho-mes" type="number" value="0" />
+              </div>
+            </fieldset>
+            <fieldset>
+              <legend>Quantas horas você trabalha por semana?</legend>
+              <div class="secao__formulario__grupo">
+                <label for="horas-dia">Horas por dia</label>
+                <input id="horas-dia" type="number" value="0" />
+              </div>
+            </fieldset>
+            <!-- <fieldset>
+              <legend>Quantos dias você trabalha por mês?</legend>
+              <div class="secao__formulario__grupo">
+                <label for="dias-mes">Dias por Mês</label>
+                <input id="dias-mes" type="number" value="0" />
+              </div>
+            </fieldset> -->
+          </form>
+        </article>
+        <footer class="secao__rodape">
+          <h3 class="secao__rodape__valor">
+            <span>R$ 0,00</span><small>/hora</small>
+          </h3>
+          <p class="secao__rodape__legenda">Seu valor por hora</p>
+        </footer>
+      </section>
+    </main>
+    <footer class="rodape">Feito com muito ♥</footer>
+
+    <script type="text/javascript" src="js/scripts.js"></script>
+  </body>
+</html>
