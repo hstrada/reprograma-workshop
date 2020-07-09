@@ -9,21 +9,36 @@
   
 </p>
 
+## Pré-Requisitos
+
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - Criar uma conta no netlify (https://www.netlify.com/)
+
 ---
 
 ## Introdução
 
 ### 09hrs~10hrs.
 
-1. Apresentar sobre como será a dinâmica do dia;
+1. Apresentar o que será visto no dia;
 	- Apresentação do contexto de desenvolvimento;
-		- FrontEnd
-		- Mobile
-		- BackEnd -> foco especificamente do curso
-	- Apresentar o que é uma linguagem de programação;
-2. Apresentar quais desafios serão desenvolvidos no decorrer do dia;
-	- Mostrar o resultado completo inicialmente e por quê estamos vendo dessa maneira os cálculos e como será visto no desenvolvimento do curso;
-3. Se possível, com base no tempo, apresentar algum projeto de backend.
+		- HTML;
+		- CSS;
+		- JavaScript;
+		
+		> HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web.
+
+		https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
+2. Anatomia HTML, CSS
+	- Apresentar a anatomia de um arquivo HTML e a importância de um id;
+		- Pode haver somente um id por página;
+
+3. Apresentar o arquivo index.html (início) sem o link com o javascript;
+	- Iniciar apresentação sobre js.
+		> JavaScript é uma linguagem de programação que permite implementar funcionalidades mais complexas em páginas web. Sempre que uma página web faz mais do que apenas mostrar informações estáticas para você - ela mostra em tempo real conteúdos atualizados, mapas interativos, animações gráficas em 2D/3D, vídeos, etc. -  você pode apostar que o Javascript provavelmente está envolvido.
+
+		https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript
 
 ---
 
