@@ -204,4 +204,7 @@ p {
   color: #7f479b;
   background-color: #f6f6f6;
   padding: 1rem 1rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
