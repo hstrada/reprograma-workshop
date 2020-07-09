@@ -46,7 +46,10 @@
 
 ### 10hrs ~ 12hrs
 
-1. Apresentar HTML, CSS, essencialmente para entender o desenvolvimento básico, pois o foco será no cálculo;
+1. HTML, CSS são essenciais para entender apenas como cada pedaço está dividido na trilha.
+
+	![](.github/docs/deadpool.gif)
+
 2. Iniciar o desafio de javascript.
 	- Recomendação: deixa o js já pronto no script. Se preferir, pode deixar dentro do index.html;
 3. Neste período, eu sugiro realizar o início do script (indicado no arquivo script.js como //INÍCIO);
