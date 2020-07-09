@@ -36,6 +36,7 @@
 
 3. Apresentar o arquivo index.html (início) sem o link com o javascript;
 	- Iniciar apresentação sobre js.
+	
 		> JavaScript é uma linguagem de programação que permite implementar funcionalidades mais complexas em páginas web. Sempre que uma página web faz mais do que apenas mostrar informações estáticas para você - ela mostra em tempo real conteúdos atualizados, mapas interativos, animações gráficas em 2D/3D, vídeos, etc. -  você pode apostar que o Javascript provavelmente está envolvido.
 
 		https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript
