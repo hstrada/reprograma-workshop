@@ -51,9 +51,15 @@
 	![](.github/docs/deadpool.gif)
 
 2. Iniciar o desafio de javascript.
-	- Recomendação: deixa o js já pronto no script. Se preferir, pode deixar dentro do index.html;
-3. Neste período, eu sugiro realizar o início do script (indicado no arquivo script.js como //INÍCIO);
-	- Selecionar os dados que o usuário digitar e imprimir na tela.
+	- Recomendação: realizar o link com o arquivo js;
+		- Recomendação: querySelector pré-montado e a função principal;
+3. Sugestão: 
+	- Realizar o início do script (indicado no arquivo script.js como //INÍCIO);
+	- Selecionar os dados do usuário:
+		- Imprimir o console.log("Hello World");
+			- Sem isso, não trará sorte :P (~~helena passou por aqui~~);
+		- Parte séria:
+			- Imprimir os valores digitados pelo usuário.
 
 ---
 
