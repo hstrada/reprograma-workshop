@@ -36,7 +36,7 @@
 
 3. Apresentar o arquivo index.html (início) sem o link com o javascript;
 	- Iniciar apresentação sobre js.
-	
+
 		> JavaScript é uma linguagem de programação que permite implementar funcionalidades mais complexas em páginas web. Sempre que uma página web faz mais do que apenas mostrar informações estáticas para você - ela mostra em tempo real conteúdos atualizados, mapas interativos, animações gráficas em 2D/3D, vídeos, etc. -  você pode apostar que o Javascript provavelmente está envolvido.
 
 		https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript
@@ -68,13 +68,12 @@
 
 ### 13hrs ~ 14hrs
 
-1. Sugestão, desenvolvimento do cálculo das horas (referência no script - // REALIZAR CONTA);
-	- Imprimir no console;
-2. Apresentando o resultado no console.log().
+1. Desenvolvimento do cálculo das horas (referência no script - // REALIZAR CONTA);
+2. Apresentação do resultado no console.log().
 
 ### 14hrs ~ 15hrs
 
-1. Apresentar os dados na tela;
+1. Apresentação dos dados na tela;
 	- Referência no script.js: // APRESENTAR RESULTADO
 
 <img src=".github/docs/calculator.png"/>
