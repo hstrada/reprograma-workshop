@@ -1,0 +1,16 @@
+- Antes de iniciar a apresentação
+Os arquivos estarão disponíveis em um .zip no site da reprograma, instrução será incluída no repositório do github do workshop;
+
+- Durante o dia do workshop
+Apresentação do Projeto;
+Desenvolvimento do Projeto;
+Publicar link do netlify;
+-- zoom
+Dúvidas serão tiradas/resolvidas no chat do zoom com as monitoras;
+
+- Final do dia do workshop
+Fazer download do arquivo excel;
+
+- Desafio
+até às 17hrs do dia seguinte;
+Professora avalia até meia-noite;
