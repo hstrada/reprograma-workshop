@@ -4,12 +4,12 @@ Os arquivos estarão disponíveis em um .zip no site da {reprograma}, instruçã
 - Durante o dia do workshop
 Apresentação do Projeto;
 Desenvolvimento do Projeto;
-Publicar link do netlify;
+Publicar link do netlify no excel;
 -- zoom
 Dúvidas serão tiradas/resolvidas no chat do zoom com as monitoras;
 
 - Final do dia do workshop
-Fazer download do arquivo excel;
+Fazer download do arquivo excel com os links do netlify que as alunas publicaram;
 
 - Desafio
 entrega das alunas até às 17hrs do dia seguinte;
