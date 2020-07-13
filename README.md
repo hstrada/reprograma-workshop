@@ -106,6 +106,8 @@
 Dado uma nova tabela com os valores propostos abaixo, calcule o valor de um projeto com base nos dados:
 
 ```
-Valor/Hora do seu Projeto x Qtd de Horas * Qtd de Dias;
+Valor/Hora do seu Projeto x Qtd de Horas;
 ```
+
+Apresentar o resultado do cálculo na tela.
 
