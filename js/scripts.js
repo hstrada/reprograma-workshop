@@ -39,11 +39,11 @@ formularioHora.addEventListener("change", calculaValorHora); */
 
 // INÍCIO
 
-/* const inputGanhoPorMes = document.querySelector("#ganho-mes");
+/* var inputGanhoPorMes = document.querySelector("#ganho-mes");
 inputGanhoPorMes.addEventListener("keyup", function retornar() {
   calculaValorHora();
 });
-const inputHorasPorDia = document.querySelector("#horas-dia");
+var inputHorasPorDia = document.querySelector("#horas-dia");
 inputHorasPorDia.addEventListener("keyup", function retornar() {
   calculaValorHora();
 });
@@ -55,20 +55,20 @@ function calculaValorHora() {
 
 // REALIZAR CONTA
 
-/* const inputGanhoPorMes = document.querySelector("#ganho-mes");
+/* var inputGanhoPorMes = document.querySelector("#ganho-mes");
 inputGanhoPorMes.addEventListener("keyup", function retornarGanhoMes() {
   calculaValorHora();
 });
-const inputHorasPorDia = document.querySelector("#horas-dia");
+var inputHorasPorDia = document.querySelector("#horas-dia");
 inputHorasPorDia.addEventListener("keyup", function retornarHorasDia() {
   calculaValorHora();
 });
 
 // camelCase
 function calculaValorHora() {
-  const qtdTotalDeHoras = parseFloat(inputHorasPorDia.value) * 22;
+  var qtdTotalDeHoras = parseFloat(inputHorasPorDia.value) * 22;
 
-  const valorDeHora = parseFloat(
+  var valorDeHora = parseFloat(
     inputGanhoPorMes.value / qtdTotalDeHoras
   ).toFixed(2);
 
@@ -76,24 +76,24 @@ function calculaValorHora() {
 } */
 
 // APRESENTAR RESULTADO
-const spanHora = document.querySelector(
+var spanHora = document.querySelector(
   ".secao-hora .secao__rodape__valor span"
 );
 
-const inputGanhoPorMes = document.querySelector("#ganho-mes");
+var inputGanhoPorMes = document.querySelector("#ganho-mes");
 inputGanhoPorMes.addEventListener("keyup", function retornarGanhoMes() {
   calculaValorHora();
 });
-const inputHorasPorDia = document.querySelector("#horas-dia");
+var inputHorasPorDia = document.querySelector("#horas-dia");
 inputHorasPorDia.addEventListener("keyup", function retornarHorasDia() {
   calculaValorHora();
 });
 
 // camelCase
 function calculaValorHora() {
-  const qtdTotalDeHoras = parseFloat(inputHorasPorDia.value) * 22;
+  var qtdTotalDeHoras = parseFloat(inputHorasPorDia.value) * 22;
 
-  const valorDeHora = parseFloat(
+  var valorDeHora = parseFloat(
     inputGanhoPorMes.value / qtdTotalDeHoras
   ).toFixed(2);
 

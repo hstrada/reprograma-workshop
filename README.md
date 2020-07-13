@@ -94,6 +94,10 @@
 
 1. Publicar o projeto no netlify.
 
+	> https://app.netlify.com/signup
+
+
+
 ---
 
 ## Próximos Passos
