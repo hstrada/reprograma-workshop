@@ -80,23 +80,19 @@
 
 ---
 
-## Sessão Dúvidas
-
-### 15hrs ~ 15hrs45min
-
-1. Tempo para dúvidas e finalização do processo para todas as alunas.
-
----
-
 ## Publicando o Projeto
 
-### 15hrs45min ~ 16hrs30min
+### 15hrs ~ 15hrs45min
 
 1. Publicar o projeto no netlify.
 
 	> https://app.netlify.com/signup
 
+## Sessão Dúvidas
 
+### 15hrs45min ~ 16hrs30min
+
+1. Tempo para dúvidas e finalização do processo para todas as alunas.
 
 ---
 
@@ -105,13 +101,36 @@
 ### 16hrs30min ~ 17hrs
 
 1. Apresentar o próximo desafio.
+
 2. As alunas terão 24hrs para realizar o desafio seguinte que será:
+
 2.1. Desenvolver a calculadora "inversa".
+
 Dado uma nova tabela com os valores propostos abaixo, calcule o valor de um projeto com base nos dados:
 
 ```
-Valor/Hora do seu Projeto x Qtd de Horas;
+Valor/Hora do seu Projeto x Qtd de Horas Total do Projeto;
 ```
 
-Apresentar o resultado do cálculo na tela.
+Você desenvolverá o valor total do projeto de custo. Por exemplo:
 
+Meu valor/hora: R$10,00
+O projeto terá: 10horas de desenvolvimento
+O valor apresentado deverá ser: 
+> R$ 100,00
+
+Cada item da lista poderá ser desenvolvido com muito amor:
+- [ ]Criar o input do valor/hora do seu projeto;
+- [ ]Criar o input da qtd de horas do projeto;
+- [ ]Apresentar o valor/hora que o usuário digitar do projeto;
+- [ ]Apresentar a hora total do projeto que o usuário digitar do projeto;
+- [ ]Apresentar o cálculo. Resultado total.
+- [ ]Apresentar o resultado com R$123,56 corretos.
+
+---
+
+## Links de Apoio
+
+- [W3Schools](https://www.w3schools.com/js/)
+- [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [modern](https://javascript.info/)
