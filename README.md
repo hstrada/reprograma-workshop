@@ -120,12 +120,12 @@ O valor apresentado deverá ser:
 > R$ 100,00
 
 Cada item da lista poderá ser desenvolvido com muito amor:
-- [ ]Criar o input do valor/hora do seu projeto;
-- [ ]Criar o input da qtd de horas do projeto;
-- [ ]Apresentar o valor/hora que o usuário digitar do projeto;
-- [ ]Apresentar a hora total do projeto que o usuário digitar do projeto;
-- [ ]Apresentar o cálculo. Resultado total.
-- [ ]Apresentar o resultado com R$123,56 corretos.
+- [ ] Criar o input do valor/hora do seu projeto;
+- [ ] Criar o input da qtd de horas do projeto;
+- [ ] Apresentar o valor/hora que o usuário digitar do projeto;
+- [ ] Apresentar a hora total do projeto que o usuário digitar do projeto;
+- [ ] Apresentar o cálculo. Resultado total.
+- [ ] Apresentar o resultado com R$123,56 corretos.
 
 ---
 
