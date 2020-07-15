@@ -88,6 +88,16 @@
 
 	> https://app.netlify.com/signup
 
+Na tela inicial, ou pelo site: 
+
+> https://app.netlify.com/teams/[nome-usuario]/sites
+
+Arrastar e soltar os arquivos no espaço que correspondem a:
+
+> Want to deploy a new site without connecting to Git? Drag and drop your site folder here
+
+---
+
 ## Sessão Dúvidas
 
 ### 15hrs45min ~ 16hrs30min
@@ -114,9 +124,11 @@ Valor/Hora do seu Projeto x Qtd de Horas Total do Projeto;
 
 Você desenvolverá o valor total do projeto de custo. Por exemplo:
 
+```
 Meu valor/hora: R$10,00
 O projeto terá: 10horas de desenvolvimento
 O valor apresentado deverá ser: 
+```
 > R$ 100,00
 
 Cada item da lista poderá ser desenvolvido com muito amor:
