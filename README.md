@@ -32,7 +32,8 @@
 
 2. Anatomia HTML, CSS
 	- Apresentar a anatomia de um arquivo HTML e a importância de um id;
-		- Pode haver somente um id por página;
+		- Cada elemento pode ser identificado por um id (único, não pode ser repetido);
+		- Grupos de elementos podem ser identificados por classes;
 
 3. Apresentar o arquivo index.html (início) sem o link com o javascript;
 	- Iniciar apresentação sobre js.
