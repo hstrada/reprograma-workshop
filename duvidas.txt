@@ -1,4 +1,5 @@
 - Antes de iniciar a apresentação
+(Não precisa fazer apresentação reprograma);
 Os arquivos estarão disponíveis em um .zip no site da {reprograma}, instrução será incluída no repositório do github do workshop;
 
 - Durante o dia do workshop
@@ -14,3 +15,9 @@ Fazer download do arquivo excel com os links do netlify que as alunas publicaram
 - Desafio
 entrega das alunas até às 17hrs do dia seguinte;
 Professora avalia até meia-noite;
+
+As chamadas das alunas serão feitas: 
+- manhã antes de começar e na volta do almoço
+
+Template de slides:
+https://docs.google.com/presentation/d/11zvKSHLe-1y9D59HMd8z-tW73n0EWywtSiiGaKPPW38/edit#slide=id.p
