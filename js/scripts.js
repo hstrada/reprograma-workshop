@@ -6,13 +6,14 @@ var inputGanhoPorMes = document.querySelector("#ganho-mes");
 inputGanhoPorMes.addEventListener("keyup", function retornarGanhoMes() {
   calculaValorHora();
 });
-var inputHorasPorSemana = document.querySelector("#horas-semana");
-inputHorasPorSemana.addEventListener("keyup", function retornarHorasDia() {
+
+var inputHorasPorDia = document.querySelector("#horas-dia");
+inputHorasPorDia.addEventListener("keyup", function retornarHorasDia() {
   calculaValorHora();
 });
 
 function calculaValorHora() {
-  var qtdTotalDeHoras = parseFloat(inputHorasPorSemana.value) * 22;
+  var qtdTotalDeHoras = parseFloat(inputHorasPorDia.value) * 22;
 
   var valorDeHora = parseFloat(
     inputGanhoPorMes.value / qtdTotalDeHoras
