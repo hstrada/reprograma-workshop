@@ -45,7 +45,7 @@
 
 ## Início do Desafio
 
-### 10hrs ~ 12hrs
+### 10hrs ~ 12hrs30min
 
 1. HTML, CSS são essenciais para entender apenas como cada pedaço está dividido na trilha.
 
@@ -55,26 +55,31 @@
 	- Recomendação: realizar o link com o arquivo js;
 		- Recomendação: querySelector pré-montado e a função principal;
 3. Sugestão: 
-	- Realizar o início do script (indicado no arquivo script.js como //INÍCIO);
+	- Realizar o início do script;
 	- Selecionar os dados do usuário:
 		- Imprimir o console.log("Hello World");
 			- Sem isso, não trará sorte :P (~~helena passou por aqui~~);
 		- Parte séria:
 			- Imprimir os valores digitados pelo usuário.
+4. Sugestão:
+	- Iniciar cálculo da conta;
+	- Desenvolvimento do cálculo das horas;
 
 ---
 
 ## Desenvolvimento do Desafio
 
-### 13hrs ~ 14hrs
+### 13hrs30 ~ 14hrs
 
-1. Desenvolvimento do cálculo das horas (referência no script - // REALIZAR CONTA);
+(Finalizar cálculo da conta)
+
+1. Desenvolvimento do cálculo das horas
 2. Apresentação do resultado no console.log().
 
 ### 14hrs ~ 15hrs
 
 1. Apresentação dos dados na tela;
-	- Referência no script.js: // APRESENTAR RESULTADO
+	- Referência no script.js:
 
 <img src=".github/docs/calculator.png"/>
 
