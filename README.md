@@ -151,3 +151,7 @@ Cada item da lista poderá ser desenvolvido com muito amor:
 - [W3Schools](https://www.w3schools.com/js/)
 - [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [modern](https://javascript.info/)
+
+### Dicas fofas de amor
+
+- [How to teach programming](https://www.youtube.com/watch?v=g1ib43q3uXQ) - com amor, @jandoso
