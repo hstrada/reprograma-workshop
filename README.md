@@ -2,9 +2,7 @@
 
 ---
 
-<p align="center">
-  O objetivo dessa calculadora é mostrar a partir de determinada entrada de horas trabalhadas vs salário base mês, quanto vale o seu valor/hora.
-</p>
+O objetivo dessa calculadora é mostrar a partir de determinada entrada de horas trabalhadas vs salário base mês, quanto vale o seu valor/hora.
   
 ---
 
