@@ -11,11 +11,11 @@
 ## Estrutura dos arquivos
 
 - completo	
--- arquivos das professoras;
+	- arquivos das professoras;
 - exemplo
--- pode ser usado para explicar js, html, css;
+	- pode ser usado para explicar js, html, css;
 - workshop-backend
--- código que será disponibilizado para as alunas;
+	- código que será disponibilizado para as alunas;
 
 ---
   
