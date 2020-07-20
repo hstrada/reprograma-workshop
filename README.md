@@ -18,6 +18,14 @@
 	- código que será disponibilizado para as alunas;
 
 ---
+
+### Imagem do Desafio
+
+<p align="center">
+  <img src=".github/docs/fullpage.png"/>
+</p>
+
+--- 
   
 ## Pré-Requisitos
 
