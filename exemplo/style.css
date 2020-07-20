@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 30px;
+    color: #b382ba;
+}
+
+#ano {
+    margin-top: 10px;
+    padding: 8px;
+    width: 80px;
+}
+
+button {
+    width: 120px;
+    padding: 8px 20px;
+    margin-top: 16px;
+    background-color: #b382ba;
+    border: none;
+    border-radius: 8px;
+    transition: background-color 0.4s;
+    outline: none;
+    color: #f6f6f6;
+}
+
+button:hover {
+    background-color: #ecddf3;
+    color: #3f3d56;
+}
+
+#respostaAno {
+    color: #7e459b;
+    font-weight: bold;
+}
