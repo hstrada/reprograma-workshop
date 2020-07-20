@@ -1,14 +1,24 @@
 # {reprograma} - calculadora freela
 
-<p align="center">
-  <img src=".github/docs/fullpage.png"/>
-	
-  <p align="center">
-  O objetivo dessa calculadora é mostrar a partir de determinada entrada de horas trabalhadas vs salário base mês, quanto vale o seu valor/hora.
-  </p>
-  
-</p>
+---
 
+<p align="center">
+  O objetivo dessa calculadora é mostrar a partir de determinada entrada de horas trabalhadas vs salário base mês, quanto vale o seu valor/hora.
+</p>
+  
+---
+
+## Estrutura dos arquivos
+
+- completo	
+-- arquivos das professoras;
+- exemplo
+-- pode ser usado para explicar js, html, css;
+- workshop-backend
+-- código que será disponibilizado para as alunas;
+
+---
+  
 ## Pré-Requisitos
 
   - [Visual Studio Code](https://code.visualstudio.com/)
