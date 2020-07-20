@@ -38,6 +38,11 @@ p {
 }
 
 /* CONTEUDO-PRINCIPAL */
+@media (min-width: 320px) {
+  .conteudo-principal {
+    margin: 0 0 0 auto;
+  }
+}
 @media (min-width: 768px) {
   .conteudo-principal {
     margin: 6rem auto 6rem auto;
@@ -71,7 +76,18 @@ p {
 }
 
 .cabecalho__titulo {
-  margin: 0 0 0.5rem 0;
+  margin: 0 10rem 0 0;
+  display: block;
+}
+
+@media (min-width: 320px) {
+  .cabecalho {
+    margin-top: 7rem;
+  }
+  .cabecalho__titulo {
+    margin: 0 10rem 0 0;
+    font-size: 25px;
+  }
 }
 
 @media (min-width: 768px) {
@@ -79,7 +95,11 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 300px;
+    height: 200px;
+  }
+  .cabecalho__titulo {
+    margin: 0 20rem 0 0;
+    font-size: 40px;
   }
 }
 
@@ -103,6 +123,7 @@ p {
 .secao__conteudo {
   padding: 3rem 1rem;
   background-color: #7f479b;
+  margin-bottom: 10px;
 }
 .secao__formulario fieldset {
   padding: 0;
@@ -153,6 +174,7 @@ p {
   text-align: center;
   padding: 3rem 1rem;
   background-color: #f6f6f6;
+  margin-bottom: 10px;
 }
 .secao__rodape__valor span {
   font-size: 3.5rem;

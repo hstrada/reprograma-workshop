@@ -16,6 +16,20 @@
 
 ---
 
+## Slides
+
+A @cintiafumi está preparando um conteúdo do amor incrível:
+https://docs.google.com/presentation/d/17cssU8S2265J0BEjB1Je_0qVN-QZlGObeBgRhjf19g4/edit?usp=sharing
+
+---
+
+## Observações
+
+As pausas entre os conteúdos, são super bem-vindas.
+- Entre 5 e 10 minutos ou o que você ficar mais contextualizado com a sua aula;
+
+---
+
 ## Introdução
 
 ### 09hrs~10hrs.
@@ -93,13 +107,19 @@
 
 	> https://app.netlify.com/signup
 
-Na tela inicial, ou pelo site: 
+	1.1. Na tela inicial, ou pelo site: 
 
-> https://app.netlify.com/teams/[nome-usuario]/sites
+	> https://app.netlify.com/teams/[nome-usuario]/sites
 
-Arrastar e soltar os arquivos no espaço que correspondem a:
+	1.2. Arrastar e soltar os arquivos no espaço que correspondem a:
 
-> Want to deploy a new site without connecting to Git? Drag and drop your site folder here
+	> Want to deploy a new site without connecting to Git? Drag and drop your site folder here
+
+2. As alterações que forem feitas, você poderá fazer acessando (na área logada), a seção:
+``` 
+	Deploys
+	Production
+```
 
 ---
 
@@ -137,12 +157,11 @@ O valor apresentado deverá ser:
 > R$ 100,00
 
 Cada item da lista poderá ser desenvolvido com muito amor:
-- [ ] Criar o input do valor/hora do seu projeto;
-- [ ] Criar o input da qtd de horas do projeto;
 - [ ] Apresentar o valor/hora que o usuário digitar do projeto;
 - [ ] Apresentar a hora total do projeto que o usuário digitar do projeto;
-- [ ] Apresentar o cálculo. Resultado total.
-- [ ] Apresentar o resultado com R$123,56 corretos.
+- [ ] Apresentar o cálculo.;
+- [ ] Apresentar o resultado com duas casas depois da vírgula
+- [ ] Apresentar o resultado formatado (ex.: R$ 100,00);
 
 ---
 
@@ -151,6 +170,7 @@ Cada item da lista poderá ser desenvolvido com muito amor:
 - [W3Schools](https://www.w3schools.com/js/)
 - [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [modern](https://javascript.info/)
+- [imagens-top](https://stories.freepik.com/amico)
 
 ### Dicas fofas de amor
 

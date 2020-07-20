@@ -29,5 +29,5 @@ function calculaValorHora() {
   // caso tenha tempo hábil
   // spanHora.innerText = "R$ " + Math.ceil(valorDeHora) + ",00";
 
-  spanHora.innerText = "R$ " + valorDeHora;
+  spanHora.textContent = "R$ " + valorDeHora;
 }
