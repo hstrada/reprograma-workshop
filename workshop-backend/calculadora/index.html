@@ -21,7 +21,7 @@
     <main class="conteudo-principal">
       <section class="secao secao-hora">
         <article class="secao__conteudo">
-          <form class="secao__formulario">
+          <div class="secao__formulario">
             <fieldset>
               <legend>Quanto você ganha por mês?</legend>
               <div class="secao__formulario__grupo">
@@ -37,11 +37,11 @@
               </div>
             </fieldset>
             <button onclick="calcularValorHora()">Calcular</button>
-          </form>
+          </div>
         </article>
         <footer class="secao__rodape">
           <h3 class="secao__rodape__valor">
-            <span>R$ 0,00</span><small>/hora</small>
+            <span id="resposta">R$ 0,00</span><small>/hora</small>
           </h3>
           <p class="secao__rodape__legenda">Seu valor por hora</p>
         </footer>

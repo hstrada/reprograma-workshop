@@ -5,7 +5,8 @@ var inputGanhoPorMes = document.querySelector("#ganho-mes");
 var inputHorasPorDia = document.querySelector("#horas-dia");
 
 function calcularValorHora() {
-  event.preventDefault();
+  // caso utilize div ao invés de form, para quem preferir, o preventDefault não será necessário
+  // event.preventDefault();
   var qtdTotalDeHoras = inputHorasPorDia.valueAsNumber * 22;
 
   var valorDeHora = (inputGanhoPorMes.valueAsNumber / qtdTotalDeHoras).toFixed(2);
