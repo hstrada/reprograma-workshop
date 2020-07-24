@@ -6,6 +6,12 @@ O objetivo dessa calculadora é mostrar a partir de determinada entrada de horas
   
 ---
 
+## Arquivos Iniciais para as Alunas
+
+http://reprograma.com.br/workshops/workshop-backend.zip
+
+---
+
 ## Estrutura dos arquivos
 
 - completo	
